@@ -60,22 +60,18 @@ At Schlumberger Joined as junior field engineer and leaved the company as senior
 	* Python
 	* JavaScript
 
+# Certificate Acquired:
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+| Certificate               | Location         | Year  |
+| :---------                | :-------         | :---- |
+| SDM Course                | UAE _ Duabi      | 2019  |
+| Artifical Lift Technology | Austria _ Vienna | 2013  |
+| Well Contol BOP Stack     | Malaysia _ KL    | 2012  |
+| ESP Application           | UAE _ Duabi      | 2011  |
+| GAP/PROSPER/MBAL          | Yemen _ Sana     | 2010  |
+| People Management         | UAE _ Dubai      | 2010  |
+| VX Multi Phase Metering   | France _ Paris   | 2008  |
+| SWT / TDA                 | France _ Paris   | 2006  |
 
 
 
