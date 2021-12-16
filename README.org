@@ -92,5 +92,6 @@ OiLSERV created a database using Access 2013 that capture all the equipment avai
 At OiLSERV created the same date base to track equipment and maintenance using as above but using python & Django
 ** 3d design for filter trap tank using sketchup
 Used google sketchup to design a trap tank for the sand oil and make a prototype for later design
+| [[./images/sand2.png]] | [[./images/sandone.png]] |
 #+HTML:<div align=center><a href="#"><img alt="MPFM" width="240" height="240" src="./images/Sand filter tank.png"></a>
 #+HTML:</div>
