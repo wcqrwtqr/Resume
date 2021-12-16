@@ -43,7 +43,7 @@ Bachelor Degree Majored in Chemical engineering and performed a graduation proje
 3. Multi Phase Metering Technology
     #+caption: MPFM
     #+attr_org: :width 400
-    ![[file:images/roxar.jpg][MPFM]]
+    [[./images/roxar.jpg]]
 
 * Overall Skills:
 1. MS Access database
