@@ -41,6 +41,7 @@ Bachelor Degree Majored in Chemical engineering and performed a graduation proje
 1. Well Testing & Data Acquisition
 2. Production Technology
 3. Multi Phase Metering Technology
+  [[file:images/roxar.jpg][Multiphase Meter]]
 
 * Overall Skills:
 1. MS Access database
