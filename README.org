@@ -42,7 +42,7 @@ Bachelor Degree Majored in Chemical engineering and performed a graduation proje
 2. Production Technology
 3. Multi Phase Metering Technology
     #+caption: MPFM
-    #+attr_org: :width 400
+    #+attr_org: :width 100
     [[./images/roxar.jpg]]
 
 * Overall Skills:
