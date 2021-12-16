@@ -1,10 +1,9 @@
 #+TITLE: Mohammed Albatati Resume
 #+DESCRIPTION: My online resume
-#+OPTIONS: toc:t
+#+OPTIONS: toc:nil
 
 * General Information
 | Name            | Mohammed Salah Albatati |
-|-----------------+-------------------------|
 | Nationally      | Yemeni                  |
 | Occupation      | Service Deliver Manager |
 | Birthday        | 03 Aug 1981             |
@@ -33,9 +32,9 @@ Bachelor Degree Majored in Chemical engineering and performed a graduation proje
 
 - Worked in OMV Yemen as Field Production Engineer since July 2010, responsible in intervention operation for rig and rig-less sites such as Slick line operation supervision, down hole memory gauges setup and programming, PLT & FSI (CoilTubing & Wire Line) program preparation and execution, Optimization of Wells Production in the Block S2 OMV and Completion Natural & ESP installation program preparation and execution.
 
-- Also responsible for running SUBPUMP software to analyze the runing ESP wells to meet its designed operating conditions. Also, have the responsibility to update Habban field in model in GAP/PROSPER software every quarter in a workshop meeting. Furthermore, have experience in running PANSYS software to obtain reservoir characterization.
+- Also responsible for running SUBPUMP software to analyze the running ESP wells to meet its designed operating conditions. Also, have the responsibility to update Habban field in model in GAP/PROSPER software every quarter in a workshop meeting. Furthermore, have experience in running PANSYS software to obtain reservoir characterization.
 
-- At Schlumberger Joined as junior field engineer and leaved the company as senior field testing engineer after getting specialized in Surface well testing & down hole data acquisition and multiphase engineer.
+- At Schlumberger Joined as junior field engineer and leaved the company as senior field testing engineer after getting specialized in Surface well testing & down hole data acquisition and multi-phase engineer.
 
 * Overall Carrier Experience:
 1. Well Testing & Data Acquisition
@@ -77,7 +76,7 @@ Designed a web site for OMV Yemen Habban field using ADOBE Dreamweaver CS5 which
 At OMV Yemen created a Database with ACCESS 2010 to track the Diesel consumption of each vehicle used in Habban field along with calculating the remaining diesel in the tanks and generate monthly reports of the consumption of each vehicle.
 ** OMV Yemen SharePoint
 OMV Yemen Once the IT announced the implementation of SharePoint in OMV made the request and created a SharePoint site and called it HabbanFieldSite and implemented all the web site design and information in it (https://2connect-at.omv.com/teams/habbanonline/SitePages/Welcome to OMV Yemen.aspx ), this site is only accessed by OMV employee’s and is being used by the teams in Block S2 Habban Field, Sanaa Office & Dubai Office. All these self-projects were acknowledged by OMV field Manager and Ops Managers in Dubai and I received a mail of appreciation.
-** OilSERV Surface well testing page in SharePoint
+** OilSERV Surface well testing page in SharePoint [[./images/sharepointsmall.png]]
 In OilSERV Iraq, created a Surface well testing page in SharePoint and created a document library for all the equipment available in the location which each item is grouped by Type/Serial Number, which made all the equipment information available on line. Also enforced all the supervisors to sync their laptops with the SharePoint site so all personnel are updated with the new files and certification.
 ** OilSERV Iraq, Integrated SharePoint library with QR code
 OilSERV Iraq, Integrated SharePoint library with QR code which I created a QR label linking the equipment folder and made the laminated labels for each equipment. Using your smart phone you can scan the label on the equipment will take you straight to its folder and can access all the files for that item. This system was acknowledged by OilSERV VP and CEO and the company is working to implement the process to all other business lines.
