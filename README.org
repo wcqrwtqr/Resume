@@ -85,6 +85,7 @@ OMV Yemen Once the IT announced the implementation of SharePoint in OMV made the
 In OilSERV Iraq, created a Surface well testing page in SharePoint and created a document library for all the equipment available in the location which each item is grouped by Type/Serial Number, which made all the equipment information available on line. Also enforced all the supervisors to sync their laptops with the SharePoint site so all personnel are updated with the new files and certification.
 ** OilSERV Iraq, Integrated SharePoint library with QR code
 OilSERV Iraq, Integrated SharePoint library with QR code which I created a QR label linking the equipment folder and made the laminated labels for each equipment. Using your smart phone you can scan the label on the equipment will take you straight to its folder and can access all the files for that item. This system was acknowledged by OilSERV VP and CEO and the company is working to implement the process to all other business lines.
+| [[./images/Picture1.jpg]] | [[./images/Picture2.png]] |
 ** OilSERV tutorial online training
 OilSERV Started a tutorial online training for the crew using screen flow software and upload the tutorial videos to OilSERV video portal for all locations to access it anytime and help them use EPICOR maintenance software on the go.
 ** OiLSERV database Access 2013
