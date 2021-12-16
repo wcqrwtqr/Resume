@@ -46,10 +46,13 @@ At Schlumberger Joined as junior field engineer and leaved the company as senior
 * Overall Skills:
 1. MS Access database
 2. Website creating with framework:
+
    a. Django
    b. Reat
+
 3. AutoCad 2d for P&ID
 4. Programming Language:
+
    a. Python
    b. JavaScript
 
