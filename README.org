@@ -39,21 +39,21 @@ Bachelor Degree Majored in Chemical engineering and performed a graduation proje
 
 * Overall Carrier Experience:
 1. Well Testing & Data Acquisition
+#+HTML:<div align=center><a href="#"><img alt="DAQ" width="240" height="240" src="./images/daq.png"></a>
+#+HTML:</div>
 2. Production Technology
 3. Multi Phase Metering Technology
+#+HTML:<div align=center><a href="#"><img alt="MPFM" width="240" height="240" src="./images/roxar.jpg"></a>
+#+HTML:</div>
 
-   | [[./images/roxar.jpg]] | [[./images/daq.png]] |
 
 * Overall Skills:
 1. MS Access database
 2. Website creating with framework:
-
    + Django
-   + Reat
-
+   + React
 3. AutoCad 2d for P&ID
 4. Programming Language:
-
    + Python
    + JavaScript
 
