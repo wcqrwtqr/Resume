@@ -1,6 +1,6 @@
 #+TITLE: Mohammed Albatati Resume
 #+DESCRIPTION: My online resume
-#+OPTIONS: toc:nil
+#+OPTIONS: toc:t
 
 * General Information
 | Name            | Mohammed Salah Albatati |
