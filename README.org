@@ -48,10 +48,13 @@ Bachelor Degree Majored in Chemical engineering and performed a graduation proje
 2. Website creating with framework:
    + Django
    + React
-3. AutoCad 2d for P&ID
+3. AutoCad for P&ID
 4. Programming Language:
    + Python
+   + Bash scripting
    + JavaScript
+   + VBA
+5. Sketchup 3d
 
 * Certification Acquired
 | Course                     | Location       | Date       | Duration | Description                                                                                  |
@@ -87,3 +90,7 @@ OilSERV Started a tutorial online training for the crew using screen flow softwa
 OiLSERV created a database using Access 2013 that capture all the equipment available in the fixed asset and can update every single maintenance record and track the asset history with an easy to generator reports.
 ** Python & Django framework
 At OiLSERV created the same date base to track equipment and maintenance using as above but using python & Django
+** 3d design for filter trap tank using sketchup
+Used google sketchup to design a trap tank for the sand oil and make a prototype for later design
+#+HTML:<div align=center><a href="#"><img alt="MPFM" width="240" height="240" src="./images/Sand filter tank.png"></a>
+#+HTML:</div>
