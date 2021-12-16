@@ -54,32 +54,17 @@ Bachelor Degree Majored in Chemical engineering and performed a graduation proje
    + Python
    + JavaScript
 
-* Certificate Acquired:
-
-| Certificate               | Location         | Year  |
-|---------------------------+------------------+-------|
-| SDM Course                | UAE _ Duabi      | 2019  |
-| Artifical Lift Technology | Austria _ Vienna | 2013  |
-| Well Control BOP Stack     | Malaysia _ KL    | 2012  |
-| ESP Application           | UAE _ Duabi      | 2011  |
-| GAP/PROSPER/MBAL          | Yemen _ Sana     | 2010  |
-| People Management         | UAE _ Dubai      | 2010  |
-| VX Multi Phase Metering   | France _ Paris   | 2008  |
-| SWT / TDA                 | France _ Paris   | 2006  |
-
-* Courses and Accomplishments
-| Course                     | Location       | Date       | Duration  | Description                                                                                  |
-|----------------------------+----------------+------------+-----------+----------------------------------------------------------------------------------------------|
-| SWT/TDA                    | France Paris   | Aug 2006   | (9 weeks) | Attended a course in Paris with SLB in surface well testing and testing data acquisition     |
-| VX multiphase metering     | France Paris   | July 2008  | (4 weeks) | Attended a course in Paris with SLB in VX multiphase metering engineering                    |
-| People management          | UAE_Abudhabi   | Jun 2010   | (1 weeks) | Attended a course in Abudhabi with SLB in presentation skills and people management          |
-| GAP/ PROSPER/ MBAL         | Yemen_Sanaa    | Oct 2010   | (1 weeks) | Attended an in town course (Sana’a) on GAP/ MBAL/PROSPER program for production optimization |
-| ESP Application            | UAE_Dubai      | Feb 2011   | (1 weeks) | Attended a course on ESP application in Dubai                                                |
-| Well Control BOP Stack     | Kualalumpur    | April 2012 | (1 weeks) | Attended a course on well control BOP stack                                                  |
-| Artificial Lift Technology | Austria_vienna | Feb 2013   | (1 weeks) | Attended a course on Artificial technology application in Vienna                             |
-| SDM Course                 | UAE_Dubai      | Dec 2019   | (1 weeks) | Attended a course on SDM in Dubai                                                            |
-
-
+* Certification Acquired
+| Course                     | Location       | Date       | Duration | Description                                                                                  |
+|----------------------------+----------------+------------+----------+----------------------------------------------------------------------------------------------|
+| SWT/TDA                    | France Paris   | Aug 2006   | 9 weeks  | Attended a course in Paris with SLB in surface well testing and testing data acquisition     |
+| VX multiphase metering     | France Paris   | July 2008  | 4 weeks  | Attended a course in Paris with SLB in VX multiphase metering engineering                    |
+| People management          | UAE_Abudhabi   | Jun 2010   | 1 week   | Attended a course in Abudhabi with SLB in presentation skills and people management          |
+| GAP/ PROSPER/ MBAL         | Yemen_Sanaa    | Oct 2010   | 1 week   | Attended an in town course (Sana’a) on GAP/ MBAL/PROSPER program for production optimization |
+| ESP Application            | UAE_Dubai      | Feb 2011   | 1 week   | Attended a course on ESP application in Dubai                                                |
+| Well Control BOP Stack     | Kualalumpur    | April 2012 | 1 week   | Attended a course on well control BOP stack                                                  |
+| Artificial Lift Technology | Austria_vienna | Feb 2013   | 1 week   | Attended a course on Artificial technology application in Vienna                             |
+| SDM Course                 | UAE_Dubai      | Dec 2019   | 1 week   | Attended a course on SDM in Dubai                                                            |
 
 * Self-Initiated Project:
 ** Schlumberger Database software track equipment certification
