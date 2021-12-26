@@ -95,7 +95,7 @@ Used google sketchup to design a trap tank for the sand oil and make a prototype
 | [[./images/sand2.png]]       | [[./images/sandone.png]]      |
 | [[./images/Sand filter.jpg]] | [[./images/Sand filter2.jpg]] |
 
-* Streamlit data visualizer
+* Streamlit data visualizer [[https://mpfm-gauges-upload.herokuapp.com][web page link]]
 
 This site handles the data used for the operation in OILSERV with several type of equipment such as MPFM from ROXAR, metrolog and spartek down hole gauges as well was a page for simulating the number of trucks to load oil from well site based on the time of loading.
 
@@ -117,3 +117,4 @@ This project uses the following libraries:
  5. seaboarn
 
 | [[./images/main page scrot.jpg]] |
+| [[./images/MPFM page.jpg]]       |
