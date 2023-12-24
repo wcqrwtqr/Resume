@@ -24,7 +24,13 @@ Bachelor Degree Majored in Chemical engineering and performed a graduation proje
 | Schlumberger - Yemen | Mar 2006 - Jul 2010 | Senior Field Engineer      | Testing             | 4 Y      | [[./images/slb.jpg]]     |
 
 * Overall Summary
-- Currently taking the role of Service delivery manager and acting as operation manager for 8 Testing units and 4 slickline units with a team of 140 crew members employees and consultants, and responsible for the availability of operational equipment’s & competent personnel for our client (DNO, HKN, TAQA, Rosneft & Gazprom), also responsible for the review the monthly PnL.
+
+- Currently holding the rule of business development manager for Almurabit company and responsible for marketing and promoting three new technologies in Iraq oil field market, these technologies are
+  1) Down hole memory camera: This technology used to explore shooting images and videos in full HD so the client can make proper decisions for his well intervention and improve production
+  2) Echo meter sensor: The technology is old and widely used for the wells that relay heavily on the level of the liquid to be maintained at a certain level and need to monitor any changes that might happen so the client make his decisions accordingly.
+  3) BossPac vibration sensors: The new technology is used for monitoring the equipment vibration and body temperature by sticking the vibration sensor using magnet and it starts measure the vibration the equipment generates and read it in a nearby receiver, and based on the vibration profile over a period of time it can tell the condition of the equipment and if it needs maintenance or not.
+
+- Was holding the role of Service delivery manager and acting as operation manager for 8 Testing units and 4 slickline units with a team of 140 crew members employees and consultants, and responsible for the availability of operational equipment’s & competent personnel for our client (DNO, HKN, TAQA, Rosneft & Gazprom), also responsible for the review the monthly PnL.
 
 - Also worked as Service Quality Coach for the Surface well test & slick line crew ensuring correct execution of best service quality service to our client also in charge of generating service operating procedures SOP in addition to conduct technical training for the crew to on EPICOR software for maintenance services entry.
 
@@ -51,10 +57,10 @@ Bachelor Degree Majored in Chemical engineering and performed a graduation proje
 3. AutoCad for P&ID
 4. Programming Language:
    + Python
+   + Rust
    + Bash scripting
    + JavaScript
-   + VBA
-5. Sketchup 3d
+5. Blender 3d
 
 * Certification Acquired
 | Course                     | Location       | Date       | Duration | Description                                                                                  |
