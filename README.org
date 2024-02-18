@@ -17,6 +17,7 @@ Bachelor Degree Majored in Chemical engineering and performed a graduation proje
 * Carrier Information
 | Company              | Duration            | Last Position              | Operation           | Duration | Logo                 |
 |----------------------+---------------------+----------------------------+---------------------+----------+----------------------|
+| Almurabit            | Oct 2022 - Now      | Business Dev Manager       | Down hole           | 2 Y      | [[./images/muco.jpg]]    |
 | OilSERV - Iraq       | Jan 2017 - Jun 2022 | Service Delivery Manager   | Testing & Slickline | 5 Y      | [[./images/oilserv.png]] |
 | OilSERV - Iraq       | Jan 2015 - Feb 2017 | Service Quality Coach      | Testing             | 2 Y      | [[./images/oilserv.png]] |
 | OilSERV - Iraq       | Apr 2013 - Dec 2014 | Testing Engineer In Charge | Testing             | 2 Y      | [[./images/oilserv.png]] |
