@@ -101,6 +101,9 @@ At OiLSERV created the same date base to track equipment and maintenance using a
 Used google sketchup to design a trap tank for the sand oil and make a prototype for later design
 | [[./images/sand2.png]]       | [[./images/sandone.png]]      |
 | [[./images/Sand filter.jpg]] | [[./images/Sand filter2.jpg]]  |
+** Made a Youtube Channel
+I made my own YouTube channel for teaching soft skills one important softwares such as Excel, PowerPoint and how can coding help imporve the workflow of an engineer in his work.
+[[https://www.youtube.com/@mohammedalbatati5529][mohammed albatati - YouTube]]
 ** 2023 3D modeling of BossPac sensor in Belnder
 Made a 3D modeling of the BossPac Sensor in Belnder for marketing purposes
 |[[./images/BossPac Sensor modeling.jpeg]]   |
