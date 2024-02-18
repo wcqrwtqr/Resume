@@ -100,10 +100,10 @@ At OiLSERV created the same date base to track equipment and maintenance using a
 ** 2018 3d design for filter trap tank using sketchup
 Used google sketchup to design a trap tank for the sand oil and make a prototype for later design
 | [[./images/sand2.png]]       | [[./images/sandone.png]]      |
-| [[./images/Sand filter.jpg]] | [[./images/Sand filter2.jpg]] |
+| [[./images/Sand filter.jpg]] | [[./images/Sand filter2.jpg]]  |
 ** 2023 3D modeling of BossPac sensor in Belnder
 Made a 3D modeling of the BossPac Sensor in Belnder for marketing purposes
-|./images/BossPac Sensor modeling.jpeg|
+|[[./images/BossPac Sensor modeling.jpeg]]   |
 
 * Streamlit data visualizer [[https://mpfm-gauges-upload.herokuapp.com][web page link]]
 
