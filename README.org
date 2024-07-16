@@ -26,22 +26,38 @@ Bachelor Degree Majored in Chemical engineering and performed a graduation proje
 
 * Overall Summary
 
-- Currently holding the rule of business development manager for Almurabit company and responsible for marketing and promoting three new technologies in Iraq oil field market, these technologies are
-  1) Down hole memory camera: This technology used to explore shooting images and videos in full HD so the client can make proper decisions for his well intervention and improve production
-  2) Echo meter sensor: The technology is old and widely used for the wells that relay heavily on the level of the liquid to be maintained at a certain level and need to monitor any changes that might happen so the client make his decisions accordingly.
-  3) BossPac vibration sensors: The new technology is used for monitoring the equipment vibration and body temperature by sticking the vibration sensor using magnet and it starts measure the vibration the equipment generates and read it in a nearby receiver, and based on the vibration profile over a period of time it can tell the condition of the equipment and if it needs maintenance or not.
+** Accomplished Business Development Manager at Almurabit, spearheading the successful marketing and promotion of three cutting-edge technologies in the Iraqi oil field market:
+  a. Down Hole Memory Camera: Advanced technology enabling exploration with full HD image and video capture for optimal well intervention decision-making and production enhancement.
+  b. Echo Meter Sensor: Established technology for precise liquid level monitoring, providing critical data for informed decision-making in well operations.
+  c. BossPac Vibration Sensors: Innovative technology utilizing magnetically attached vibration sensors to monitor equipment performance, providing predictive insights for proactive maintenance.
 
-- Was holding the role of Service delivery manager and acting as operation manager for 8 Testing units and 4 slickline units with a team of 140 crew members employees and consultants, and responsible for the availability of operational equipment’s & competent personnel for our client (DNO, HKN, TAQA, Rosneft & Gazprom), also responsible for the review the monthly PnL.
+** Proven service delivery manager and acting operations manager responsible for:
+  a. leading a team of 140 crew members and consultants for seamless testing and slickline operations.
+  b. ensuring the availability of operational equipment and highly skilled personnel for renowned clients such as dno, hkn, taqa, rosneft, and gazprom.
+  c. conducting thorough monthly pnl reviews to monitor operational performance.
 
-- Also worked as Service Quality Coach for the Surface well test & slick line crew ensuring correct execution of best service quality service to our client also in charge of generating service operating procedures SOP in addition to conduct technical training for the crew to on EPICOR software for maintenance services entry.
+** Service Quality Coach specializing in:
+  a. Enhancing service delivery by implementing best practices for Surface Well Test and Slick Line crews.
+  b. Developing comprehensive Service Operating Procedures (SOPs) to streamline operations.
+  c. Conducting technical training on EPICOR software for maintenance services optimization.
 
-- From 2013 Jun to Dec 2014 was acting as Service delivery manager while keeping my position as Testing Engineer In charge, maintaining and running 8 surface Testing packages with around 85 personnel on board consist of supervisors, chief operators, Data Engineers, Operators and mechanics, making sure all equipment are well maintained for upcoming jobs and select competent crew for each job along with giving full support for ongoing Operation. Conducting field and base audits, reviewing and presenting incident reports to top management on monthly bases, meeting with clients and make packages design and solutions for client requests for Oil production and Testing. Responsible for crew planning in/out the field while maintaining good Relationship with the team, making plan for the equipment Maintenance and certification documentation by implementing my own project of QR code with SharePoint integration.
+* Previous Experience
 
-- Worked in OMV Yemen as Field Production Engineer since July 2010, responsible in intervention operation for rig and rig-less sites such as Slick line operation supervision, down hole memory gauges setup and programming, PLT & FSI (CoilTubing & Wire Line) program preparation and execution, Optimization of Wells Production in the Block S2 OMV and Completion Natural & ESP installation program preparation and execution.
+** Service Delivery Manager (Acting), Testing Engineer In Charge  (2013-2022)
+    + Managed and maintained 8 surface Testing packages, overseeing a team of 85 personnel.
+    + Selected competent crew for each project and provided comprehensive operational support.
+    + Conducted field and base audits, reported on incident occurrences, and presented findings to top management.
+    + Built strong relationships with clients and developed innovative package designs and solutions to meet production and testing requirements.
 
-- Also responsible for running SUBPUMP software to analyze the running ESP wells to meet its designed operating conditions. Also, have the responsibility to update Habban field in model in GAP/PROSPER software every quarter in a workshop meeting. Furthermore, have experience in running PANSYS software to obtain reservoir characterization.
+** Field Production Engineer, OMV Yemen (2010-2013)
+    + Led intervention operations, including slick line supervision, memory gauge deployments, and production optimization.
+    + Utilized SUBPUMP software to analyze ESP well performance and ensure adherence to operating specifications.
+    + Regularly updated production models in GAP/PROSPER software.
+    + Leveraged PANSYS software for reservoir characterization.
 
-- At Schlumberger Joined as junior field engineer and leaved the company as senior field testing engineer after getting specialized in Surface well testing & down hole data acquisition and multi-phase engineer.
+** Surface Well Testing & Data Acquisition Engineer, Schlumberger (2006-2010h)
+    + Advanced from Junior Field Engineer to Senior Field Testing Engineer with expertise in Surface Well Testing and Down Hole Data Acquisition.
+    + Specialized in multi-phase flow measurement and analysis.
 
 * Overall Carrier Experience:
 1. Well Testing & Data Acquisition
