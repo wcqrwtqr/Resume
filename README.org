@@ -26,38 +26,39 @@ Bachelor Degree Majored in Chemical engineering and performed a graduation proje
 
 * Overall Summary
 
-** Accomplished Business Development Manager at Almurabit, spearheading the successful marketing and promotion of three cutting-edge technologies in the Iraqi oil field market:
+** Accomplished Business Development Manager at Almurabit
+Spearheading the successful marketing and promotion of three cutting-edge technologies in the Iraqi oil field market:
   a. Down Hole Memory Camera: Advanced technology enabling exploration with full HD image and video capture for optimal well intervention decision-making and production enhancement.
   b. Echo Meter Sensor: Established technology for precise liquid level monitoring, providing critical data for informed decision-making in well operations.
   c. BossPac Vibration Sensors: Innovative technology utilizing magnetically attached vibration sensors to monitor equipment performance, providing predictive insights for proactive maintenance.
 
 ** Proven service delivery manager and acting operations manager responsible for:
   a. leading a team of 140 crew members and consultants for seamless testing and slickline operations.
-  b. ensuring the availability of operational equipment and highly skilled personnel for renowned clients such as dno, hkn, taqa, rosneft, and gazprom.
-  c. conducting thorough monthly pnl reviews to monitor operational performance.
+  b. ensuring the availability of operational equipment and highly skilled personnel for renowned clients such as DNO, HKN, TAQA, Rosneft, and Gazprom.
+  c. conducting thorough monthly PnL reviews to monitor operational performance.
 
 ** Service Quality Coach specializing in:
-  a. Enhancing service delivery by implementing best practices for Surface Well Test and Slick Line crews.
-  b. Developing comprehensive Service Operating Procedures (SOPs) to streamline operations.
-  c. Conducting technical training on EPICOR software for maintenance services optimization.
+  1. Enhancing service delivery by implementing best practices for Surface Well Test and Slick Line crews.
+  2. Developing comprehensive Service Operating Procedures (SOPs) to streamline operations.
+  3. Conducting technical training on EPICOR software for maintenance services optimization.
 
 * Previous Experience
 
 ** Service Delivery Manager (Acting), Testing Engineer In Charge  (2013-2022)
-    + Managed and maintained 8 surface Testing packages, overseeing a team of 85 personnel.
-    + Selected competent crew for each project and provided comprehensive operational support.
-    + Conducted field and base audits, reported on incident occurrences, and presented findings to top management.
-    + Built strong relationships with clients and developed innovative package designs and solutions to meet production and testing requirements.
+    1. Managed and maintained 8 surface Testing packages, overseeing a team of 85 personnel.
+    2. Selected competent crew for each project and provided comprehensive operational support.
+    3. Conducted field and base audits, reported on incident occurrences, and presented findings to top management.
+    4. Built strong relationships with clients and developed innovative package designs and solutions to meet production and testing requirements.
 
 ** Field Production Engineer, OMV Yemen (2010-2013)
-    + Led intervention operations, including slick line supervision, memory gauge deployments, and production optimization.
-    + Utilized SUBPUMP software to analyze ESP well performance and ensure adherence to operating specifications.
-    + Regularly updated production models in GAP/PROSPER software.
-    + Leveraged PANSYS software for reservoir characterization.
+    1. Led intervention operations, including slick line supervision, memory gauge deployments, and production optimization.
+    2. Utilized SUBPUMP software to analyze ESP well performance and ensure adherence to operating specifications.
+    3. Regularly updated production models in GAP/PROSPER software.
+    4. Leveraged PANSYS software for reservoir characterization.
 
 ** Surface Well Testing & Data Acquisition Engineer, Schlumberger (2006-2010h)
-    + Advanced from Junior Field Engineer to Senior Field Testing Engineer with expertise in Surface Well Testing and Down Hole Data Acquisition.
-    + Specialized in multi-phase flow measurement and analysis.
+    1. Advanced from Junior Field Engineer to Senior Field Testing Engineer with expertise in Surface Well Testing and Down Hole Data Acquisition.
+    2. Specialized in multi-phase flow measurement and analysis.
 
 * Overall Carrier Experience:
 1. Well Testing & Data Acquisition
