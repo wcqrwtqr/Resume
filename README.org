@@ -123,6 +123,7 @@ I made my own YouTube channel for teaching soft skills one important softwares s
 [[https://www.youtube.com/@mohammedalbatati5529][mohammed albatati - YouTube]]
 ** 2023 3D modeling of BossPac sensor in Belnder
 Made a 3D modeling of the BossPac Sensor in Belnder for marketing purposes
+#+PROPERTY: width 200
 |[[./images/BossPac Sensor modeling.jpeg]]   |
 
 * Streamlit data visualizer [[https://mpfm-gauges-upload.herokuapp.com][web page link]]
