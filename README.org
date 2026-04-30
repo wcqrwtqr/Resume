@@ -15,17 +15,26 @@
 Bachelor Degree Majored in Chemical engineering and performed a graduation project of designing a plant to sweet a sour LNG using Di-ethanol Glycol in a absorption column in 2004.
 
 * Carrier Information
-| Company              | Duration            | Last Position              | Operation           | Duration | Logo                 |
-|----------------------+---------------------+----------------------------+---------------------+----------+----------------------|
-| Almurabit            | Oct 2022 - Now      | Business Dev Manager       | Down hole           | 2 Y      | [[./images/muco.jpg]]    |
-| OilSERV - Iraq       | Jan 2017 - Jun 2022 | Service Delivery Manager   | Testing & Slickline | 5 Y      | [[./images/oilserv.png]] |
-| OilSERV - Iraq       | Jan 2015 - Feb 2017 | Service Quality Coach      | Testing             | 2 Y      | [[./images/oilserv.png]] |
-| OilSERV - Iraq       | Apr 2013 - Dec 2014 | Testing Engineer In Charge | Testing             | 2 Y      | [[./images/oilserv.png]] |
-| OMV Yemen            | Jul 2010 - Apr 2013 | Field Production Engineer  | Production          | 3 Y      | [[./images/omv.png]]     |
-| Schlumberger - Yemen | Mar 2006 - Jul 2010 | Senior Field Engineer      | Testing             | 4 Y      | [[./images/slb.jpg]]     |
+| Company              | Duration             | Last Position              | Operation           | Duration | Logo                 |
+|----------------------+----------------------+----------------------------+---------------------+----------+----------------------|
+| National Energy      | Sep 2024 - Feb 2026  | SWT/SLS Operationa Manager | Testing & Slickline | 2 Y      |                      |
+| Almurabit            | Oct 2022 - July 2024 | Business Dev Manager       | Down hole           | 2 Y      | [[./images/muco.jpg]]    |
+| OilSERV - Iraq       | Jan 2017 - Jun 2022  | Service Delivery Manager   | Testing & Slickline | 5 Y      | [[./images/oilserv.png]] |
+| OilSERV - Iraq       | Jan 2015 - Feb 2017  | Service Quality Coach      | Testing             | 2 Y      | [[./images/oilserv.png]] |
+| OilSERV - Iraq       | Apr 2013 - Dec 2014  | Testing Engineer In Charge | Testing             | 2 Y      | [[./images/oilserv.png]] |
+| OMV Yemen            | Jul 2010 - Apr 2013  | Field Production Engineer  | Production          | 3 Y      | [[./images/omv.png]]     |
+| Schlumberger - Yemen | Mar 2006 - Jul 2010  | Senior Field Engineer      | Testing             | 4 Y      | [[./images/slb.jpg]]     |
 
 * Overall Summary
 
+** Slickline and Well Testing Opertion manager (Iraq - Basra)
+Held the position of the operation manager for Slickline services where I was in charge of 2 0.125" Slickline Units from GOES running in BP Rumaila BECL, and MAN unit was running in RATAWI field under TEEPRH.
+Was involved in ISO audit then deployment of the three units in ROO and TEEPRH successfully 
+Was the focal point for all the auidts, meetings with my clients:
+1. ROO BECL 
+2. TEERPH
+3. Gazprom
+I was the focal point to my client in all investigations, RCA report submission and follow up on the operation needs and requirements
 ** Accomplished Business Development Manager at Almurabit
 Spearheading the successful marketing and promotion of three cutting-edge technologies in the Iraqi oil field market:
   1. Down Hole Memory Camera: Advanced technology enabling exploration with full HD image and video capture for optimal well intervention decision-making and production enhancement.
@@ -33,7 +42,7 @@ Spearheading the successful marketing and promotion of three cutting-edge techno
   3. BossPac Vibration Sensors: Innovative technology utilizing magnetically attached vibration sensors to monitor equipment performance, providing predictive insights for proactive maintenance.
 
 ** Proven service delivery manager and acting operations manager responsible for:
-  1. leading a team of 140 crew members and consultants for seamless testing and slickline operations.
+  1. leading a team of 140 crew members and consultants for seamless testing and Slickline operations.
   2. ensuring the availability of operational equipment and highly skilled personnel for renowned clients such as DNO, HKN, TAQA, Rosneft, and Gazprom.
   3. conducting thorough monthly PnL reviews to monitor operational performance.
 
@@ -119,11 +128,10 @@ Used google sketchup to design a trap tank for the sand oil and make a prototype
 | [[./images/sand2.png]]       | [[./images/sandone.png]]      |
 | [[./images/Sand filter.jpg]] | [[./images/Sand filter2.jpg]]  |
 ** Made a Youtube Channel
-I made my own YouTube channel for teaching soft skills one important softwares such as Excel, PowerPoint and how can coding help imporve the workflow of an engineer in his work.
+I made my own YouTube channel for teaching soft skills one important softwares such as Excel, PowerPoint and how can coding help improve the workflow of an engineer in his work.
 [[https://www.youtube.com/@mohammedalbatati5529][mohammed albatati - YouTube]]
 ** 2023 3D modeling of BossPac sensor in Belnder
 Made a 3D modeling of the BossPac Sensor in Belnder for marketing purposes
-#+PROPERTY: width 200
 |[[./images/BossPac Sensor modeling.jpeg]]   |
 
 * Streamlit data visualizer [[https://mpfm-gauges-upload.herokuapp.com][web page link]]
